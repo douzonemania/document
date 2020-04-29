@@ -1,6 +1,3 @@
-2020/04/22 프로젝트 계획 브리핑    
-2020/04/24 스토리보드 
-
 ## 1. Smart Custom Store(SCS)
 1. **SCS**는 온라인 쇼핑몰 창업자를 위한 쇼핑몰 커스텀 시스템으로 창업자가 관리자 페이지를 통하여 직접 홈페이지를 디자인하고, 다양한 통계 분석을 지원 받아 효율적인 쇼핑몰 운영을 도와주는 웹사이트이다.
 
@@ -24,14 +21,14 @@ https://github.com/douzonemania/document/blob/master/%EA%B8%B0%EB%8A%A5%EC%A0%95
 https://github.com/douzonemania/document/blob/master/storyboard.pdf
 
 #### 04.28
-**서버설정** Centos7
-- TOMCAT(192.168.1.58, PORT:8080)
-- MARIA DB
-- JENKINS(192.168.1.58, PORT:9090) 
-- Git
-- Maven
+- **서버설정** Centos7
+-- TOMCAT(192.168.1.58, PORT:8080)
+-- MARIA DB
+-- JENKINS(192.168.1.58, PORT:9090) 
+-- Git
+-- Maven
 
-**DB설계**
+- **DB설계**
 
 #### 04.29
 - Slack 문서화 파일 정리
