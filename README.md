@@ -22,11 +22,11 @@ https://github.com/douzonemania/document/blob/master/storyboard.pdf
 
 #### 04.28
 - **서버설정** Centos7
--- TOMCAT(192.168.1.58, PORT:8080)
--- MARIA DB
--- JENKINS(192.168.1.58, PORT:9090) 
--- Git
--- Maven
+- - TOMCAT(192.168.1.58, PORT:8080)
+- - MARIA DB
+- - JENKINS(192.168.1.58, PORT:9090) 
+- - Git
+- - Maven
 
 - **DB설계**
 
