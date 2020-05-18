@@ -6,14 +6,14 @@
 
 ## 2. user
 ### login 
-### join
+### siginup
 ### search
 #### - password-modify  
 
 
 ## 3. admin
 ### preference (환경설정)
-#### - shoping-basic
+#### - basic
 #### - policy
 
 
@@ -21,21 +21,22 @@
 
 
 ## 5. product 
-#### - register (등록)
-#### - list
-#####    - modify
+#### - reg (등록)
+#### - lnfo
+#### - modify
+#### - category-reg
 
 
 ## 6. member
 ### list
-### mail
-### question
+### send-mail
+### board
 #### - reply
 
 
 ## 7. order
-### list
-### calculate
+### delivery
+### settle
 ### status (상태) ***
 
 ## 8. statistics (통계)
