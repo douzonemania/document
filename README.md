@@ -113,5 +113,7 @@ https://github.com/douzonemania/document/blob/master/storyboard.pdf
 - Slack
 - JAVA Eclipse
 - TOMCAT
+- Ajax
+- React
 ## 5. 참고자료
 https://github.com/douzonemania/document/blob/master/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C.md
